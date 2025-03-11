@@ -12,6 +12,8 @@ Mini Capstone Project: Project Question: Analysis of Rental Patterns and Film Po
 
 Objective: To analyze rental trends, identify popular films, and assess store performance using the MavenMovies Sakila database.
 Tasks:
+
+
           1. Rental Trends:
 
 Analyze the monthly rental trends over the available data period.
@@ -32,6 +34,8 @@ Identify which store generates the highest rental revenue.
 Determine the distribution of rentals by staff members to assess performance.
 
 Expected Deliverables:
+
+
           1. SQL Queries:
 
 Scripts for extracting data to perform the above analyses.
