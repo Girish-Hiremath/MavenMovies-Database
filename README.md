@@ -4,15 +4,11 @@ The MavenMovies Database Mini Capstone Project is designed to showcase data anal
 
 Key Components of the Project
 Database Used: MavenMovies (based on a fictional movie rental business)
-Tools & Technologies: SQL (MySQL/PostgreSQL/SQL Server), Excel (Pivot Tables, Charts, VLOOKUP, etc.)
+Tools & Technologies: SQL, Excel (Pivot Tables, Charts, VLOOKUP, etc.)
 Main Skills Demonstrated: Data extraction, transformation, reporting, visualization
-
-Project Scope & Objectives
-The goal of this project is to analyze the MavenMovies database to help the business understand customer behavior, rental trends, and revenue performance.
 
 Mini Capstone Project: Project Question: Analysis of Rental Patterns and Film Popularity in MavenMovies Database
 
-Click here to download dataset
 
 Objective: To analyze rental trends, identify popular films, and assess store performance using the MavenMovies Sakila database.
 Tasks:
@@ -41,10 +37,6 @@ Expected Deliverables:
 Scripts for extracting data to perform the above analyses.
 
           2. Excel Workbook:	
-
-Includes:
-
-CSV files of data extracted from SQL queries.
 
 Visualizations (line charts, bar charts) for rental trends, peak hours, popular films, and film categories created in Excel.
 
